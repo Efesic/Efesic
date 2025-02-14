@@ -18,8 +18,14 @@ I'm an undergraduate **physics** student at Universitat Autònoma de Barcelona (
 - 💎 An _Optica't_ project (WIP):
 [Introductory LaTeX course](https://github.com/Efesic/Curs-LateX)
 
-Currently my projects are written in catalan or spanish, but I'm working for tranlate the most relevant ones ☺️. In these projects I use basically three languages:
+Currently my projects are written in catalan or spanish, but I'm working for tranlate the most relevant ones ☺️.
 
-- Python - To do calculations, data analysis and plots.
-- LaTeX - To make reports and any kind of documents on pdf.
-- Fortran - To do more complex an optimal calculations and some simulations.
+### Technologies:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+- Python: used sometimes to compute some mathematical expresions and do simple data analysis, mostly used to make plots with the library matplotlib.
+- LaTeX: to generate files like reports, courses or any other formal document.
+- Fortran: used to do more complex simulations or compute iterations more efficiently.
