@@ -1,6 +1,9 @@
 ## Hi there my name is Miguel Apestegui👋
 #### Physics undergraduate student
-> Imagen de lampara de sodio filtrada
+
+<img src="banner.JPG" alt="Banner"
+     style="width:100%; max-height:50px; object-fit:cover; display:block;">
+
 
 [![Outlook](https://img.shields.io/badge/Outlook-Contact_Me-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white&size=20x20)](mailto:MiguelAlejandro.Apestegui@autonoma.cat)
 
