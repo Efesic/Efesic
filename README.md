@@ -15,4 +15,8 @@ I'm an undergraduate **physics** student at Universitat Autònoma de Barcelona (
 - 💎 An _Optica't_ project (WIP):
 [Introductory LaTeX course](https://github.com/Efesic/Curs-LateX)
 
-Currently my projects are written in catalan or spanish, but I'm working for tranlate the most relevant ones ☺️.
+Currently my projects are written in catalan or spanish, but I'm working for tranlate the most relevant ones ☺️. In these projects I use basically three languages:
+
+- Python - To do calculations, data analysis and plots.
+- LaTeX - To make reports and any kind of documents on pdf.
+- Fortran - To do more complex an optimal calculations and some simulations.
