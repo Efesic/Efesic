@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there my name is Miguel Apestegui👋
+#### Physics undergraduate student
+> Imagen de lampara de sodio filtrada
 
-<!--
-**Efesic/Efesic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Outlook](https://img.shields.io/badge/Outlook-Contact_Me-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white&size=20x20)](mailto:MiguelAlejandro.Apestegui@autonoma.cat)
 
-Here are some ideas to get you started:
+I'm an undergraduate **physics** student at Universitat Autònoma de Barcelona (UAB), currently studying my third year. I'm also a foundational member of  _Optica't_, a divulgational group of physical optics. In this GitHub account you'll find academic projects, personal projects and _Optica't_ projects. There are some examples of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 An academc project:
+[Thermodynamics and Statistical Mechanics exercises](https://github.com/Efesic/TiME)
+
+- ☀️ A personal project (WIP):
+[Modelling and simulation of a Solar Panel](https://github.com/GallardoDodd/FvOptim)
+
+- 💎 An _Optica't_ project (WIP):
+[Introductory LaTeX course](https://github.com/Efesic/Curs-LateX)
+
+Currently my projects are written in catalan or spanish, but I'm working for tranlate the most relevant ones ☺️.
