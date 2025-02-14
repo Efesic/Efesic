@@ -3,7 +3,7 @@
 
 <img src="banner.JPG" alt="Banner"
      style="width:100%; max-height:50px; object-fit:cover; display:block;">
-
+<p style="font-size: 12px; text-align: center;"><i> Picture of a sodium light seen through a polarized filter. Own source.</i></p>
 
 [![Outlook](https://img.shields.io/badge/Outlook-Contact_Me-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white&size=20x20)](mailto:MiguelAlejandro.Apestegui@autonoma.cat)
 
